@@ -1,2 +1,3 @@
 # SpringBootDemo
-一些SpringBoot的Demo示例
+SpringBoot项目的项目属性配置
+
