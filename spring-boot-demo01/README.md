@@ -1,0 +1,3 @@
+Demo演示说明：
+此Demo演示了在SpringBoot中项目属性配置
+需要增加依赖web和lombook和spring-boot-configuration-processor
